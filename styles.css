@@ -172,7 +172,7 @@ nav a:hover {
     cursor: pointer;
 }
 
-.buttonService {
+.button-service {
     margin-top: 60px;
 }
 
@@ -202,7 +202,7 @@ nav a:hover {
     background-size: 100% 100%;
 }
 
-.orangeBox {
+.orange-box {
     position: absolute;
     bottom: -40px;
     left: -40px;
@@ -212,7 +212,7 @@ nav a:hover {
     z-index: -1;
 }
 
-.containerArrow {
+.container-arrow {
     position: absolute;
 }
 
@@ -222,7 +222,7 @@ nav a:hover {
     left: 200px;
 }
 
-.rightArrow {
+.right-arrow {
     position: relative;
     top: -295px;
     left: 145px;
@@ -250,7 +250,7 @@ nav a:hover {
     opacity: 0.7;
 }
 
-.vet, .dentCare, .VacCare {
+.vet, .dent-care, .vac-care {
     border: 5px solid #FFFFFF;
     margin: 80px 40px 45px;
 }
@@ -281,7 +281,7 @@ nav a:hover {
     text-align: end;
 }
 
-.imageOverlapping {
+.imageover-lapping {
     width: 509px;
     height: 483px;
     background-image: url("./images/audio.png");
@@ -291,7 +291,7 @@ nav a:hover {
     margin-right: 100px;
 }
 
-.imageOverlapping:after {
+.imageover-lapping:after {
     content: "";
     position: absolute;
     left: 0;
@@ -304,7 +304,7 @@ nav a:hover {
     background-size: 100% 100%;
 }
 
-.Orangebox {
+.box-orange {
     position: absolute;
     bottom: -40px;
     right: 40px;
@@ -314,13 +314,13 @@ nav a:hover {
     z-index: -1;
 }
 
-.Circle {
+.circle-bottom {
     position: relative;
     top: -270px;
     left: 200px;
 }
 
-.leftArrow {
+.left-arrow {
     position: relative;
     bottom: 295px;
     left: 135px;
@@ -510,12 +510,12 @@ span.date {
     line-height: 0;
 }
 
-.cardsBox {
+.cards-box {
     border: 1px solid RGBA(214, 214, 214, 1);
     border-top: none;
 }
 
-.middleBox {
+.middle-box {
     box-shadow: 0px 10px 15px -9px #000000;
 }
 
@@ -547,24 +547,24 @@ span.date {
     flex-direction: column;
 }
 
-.thirdBox {
+.third-box {
     text-align: end;
 }
 
-.thirdBox span {
+.third-box span {
     line-height: 0;
 }
-.thirdBox p {
+.third-box p {
     line-height: 0;
 }
 
-#writeUs {
+#write-us {
     display: flex;
     align-items: center;
     margin: 40px 0 40px 50px;
 }
 
-#emptyLine {
+#empty-line {
     background-color: RGBA(252, 195, 2, 1);
     width: 350px;
     height: 66px;
